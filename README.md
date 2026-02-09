@@ -51,3 +51,6 @@ Projenin **Frontend Geliştiricisi** olarak, yapay zeka motorumuzun son kullanı
 NASA Space Apps Challenge (Bolu) sürecinde, çevik (agile) geliştirme yöntemlerini deneyimledik. Sadece bir hafta sonu içinde bir fikri çalışan bir prototipe dönüştürerek problem çözme ve takım çalışması yeteneklerimizi sergiledik.
 
 ---
+
+![Uploading image.png…]()
+
